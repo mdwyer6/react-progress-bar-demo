@@ -1,5 +1,5 @@
 {
-  "name": "React progress bar demo",
+  "name": "React-progress-bar-demo",
   "version": "1.0.0",
   "description": "A simple photo gallery",
   "main": "main.js",
@@ -26,6 +26,7 @@
     "express": "^4.15.2",
     "react": "^15.4.2",
     "react-dom": "^15.4.2",
+    "react-progress-bar-component": "^1.0.0",
     "webpack": "^2.2.1"
   }
 }
