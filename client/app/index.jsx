@@ -7,7 +7,7 @@ class App extends React.Component {
     super(props);
     this.placeOrder = this.placeOrder.bind(this);
     this.state = {
-      current: 2
+      current: 0
     }
   }
 
@@ -18,7 +18,6 @@ class App extends React.Component {
   }
 
   render () {
-    console.log(this.state.current);
     return (
       <div className="container">
         <h1>React Progress Bar Demo</h1>
